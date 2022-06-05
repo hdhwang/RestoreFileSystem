@@ -1,0 +1,11 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/.vs/Restore_file_system/v15
+/Debug
+/Release
+/Restore_file_system/Debug
+/Restore_file_system/Release
+/Restore_file_system/Restore_file_system.vcxproj.user
+/Restore_file_system/Restore_file_system.aps
